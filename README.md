@@ -1,4 +1,5 @@
 # developer-note
+Yes, this is an application, sometime in the future
 
 
 ## Thinkering
