@@ -2,4 +2,4 @@
 
 
 ## Thinkering
-CPP, Golang, Rust or JS? CPP 🙏
+C++, Golang, Rust or JS? C++ 🙏
